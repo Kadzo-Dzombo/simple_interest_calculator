@@ -1,0 +1,4 @@
+theia@theia-kadzo819:/home/project/mcino-Introduction-to-Git-and-GitHub$ git branch -vv 
+* bug-fix-revert 7c1ab6c Revert "Fix typo: update footer year to 2023"
+  bug-fix-typo   61a91a1 Fix typo: update footer year to 2023
+  main           61a91a1 [origin/main] Fix typo: update footer year to 2023
