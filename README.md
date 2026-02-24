@@ -1,10 +1,10 @@
 # Simple Interest Calculator
 
-This is a simple Python program that calculates simple interest.
-
-## Formula
-Simple Interest = (Principal × Rate × Time) / 100
+This is a simple Bash program that calculates simple interest.
 
 ## How to Run
 ```bash
-python3 interest.py
+chmod +x simple-interest.sh
+
+```bash
+./simple-interest.sh
