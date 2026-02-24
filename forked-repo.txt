@@ -1,4 +1,3 @@
-theia@theia-kadzo819:/home/project$ curl -s https://api.github.com/reposKadzo-Dzombo/mc
-ino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
-null
-theia@theia-kadzo819:/home/project$ 
+theia@theia-kadzo819:/home/project$ curl -s https://api.github.com/repos/Kadzo-Dzombo/m
+cino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
